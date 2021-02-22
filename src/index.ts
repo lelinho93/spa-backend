@@ -17,7 +17,7 @@ app.use(express.json());
 
 /**************************************************************************/
 
-app.post("/calcularHoras", calculateHours)
+app.post("/calcularhoras", calculateHours)
 
 
 /**************************************************************************/
